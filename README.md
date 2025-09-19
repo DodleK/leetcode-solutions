@@ -1,12 +1,10 @@
 # 🚀 LeetCode / HackerRank Solutions  
 
-This repository contains my daily problem-solving practice on **LeetCode**.  
-I am currently on a **6-month roadmap to land a Data/AI role in the U.S. with sponsorship**.  
-This repo tracks my consistency, progress, and solution approaches.  
+This repository contains my daily problem-solving practice on **LeetCode**. I am currently on a **6-month roadmap to land a Data/AI role in the U.S. with sponsorship**. This repo tracks my consistency, progress, and solution approaches.  
 
 ---
 
-## 📊 Progress Tracker  
+## 📊 Target Progress Tracker  
 
 | Month | Problems Solved | Topics Focused |
 |-------|-----------------|----------------|
